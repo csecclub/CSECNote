@@ -31,3 +31,7 @@ https://ahrefs.com/blog/google-advanced-search-operators/
 
 ## Flight Tracker
 https://globe.adsbexchange.com/ 
+
+## Social Media
+Instagram: https://github.com/Datalux/Osintgram
+Username Search: https://www.idcrawl.com/username
