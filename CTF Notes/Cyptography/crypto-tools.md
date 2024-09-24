@@ -33,4 +33,15 @@ md5sum file.xxx
 
 ## Rumkin
 Atbash cipher decoder
-- https://rumkin.com/tools/cipher/atbash/
+- https://rumkin.com/tools/cipher/atbash/   
+
+## strings (linux command)
+
+- The strings command will search for sequences of ASCII text and the grep command will search those sequences for any that contain “SKY”, which is present in all flags. 
+
+- common use: (to find flags in a file!)
+
+```
+$ strings file.jpg | grep csec
+```
+> this will look if there are any matching stringsi n file.jpg that have csec in it
