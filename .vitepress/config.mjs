@@ -75,7 +75,8 @@ export default defineConfig({
           items: [
             { text: 'OneTimePad', link: 'CTF Notes/Cyptography/Onepad.md' },
             { text: 'RailCipher', link: 'CTF Notes/Cyptography/railcipher.md' },
-            { text: 'VignereCipher', link: 'CTF Notes/Cyptography/Vigenère-cipher.md' },
+            { text: 'VignereCipher', link: 'CTF Notes/Cyptography/Vigenère-cipher.md' }, 
+            { text: 'VignereCipher', link: 'CTF Notes/Cyptography/rsacipher.md' }, 
           ]
         },
       ],

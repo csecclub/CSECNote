@@ -45,3 +45,8 @@ Atbash cipher decoder
 $ strings file.jpg | grep csec
 ```
 > this will look if there are any matching stringsi n file.jpg that have csec in it
+
+## RSA Cipher
+
+- https://www.dcode.fr/rsa-cipher
+- 
