@@ -76,7 +76,7 @@ export default defineConfig({
             { text: 'OneTimePad', link: 'CTF Notes/Cyptography/Onepad.md' },
             { text: 'RailCipher', link: 'CTF Notes/Cyptography/railcipher.md' },
             { text: 'VignereCipher', link: 'CTF Notes/Cyptography/Vigenère-cipher.md' }, 
-            { text: 'VignereCipher', link: 'CTF Notes/Cyptography/rsacipher.md' }, 
+            { text: 'RsaCipher', link: 'CTF Notes/Cyptography/rsacipher.md' }, 
           ]
         },
       ],
@@ -88,6 +88,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Password-Cracking Tools', link: 'CTF Notes/Password-Cracking/tools.md' },
+            { text: 'Hashcat Basics', link: 'CTF Notes/Password-Cracking/hascat-tutorial.md' },
             { text: 'Hashcat Options', link: 'CTF Notes/Password-Cracking/hashcat-options.md'},
           ]
         },

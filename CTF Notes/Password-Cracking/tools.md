@@ -1,5 +1,8 @@
 # Password cracking tools
 
+## Online password cracker 
+- https://www.cmd5.org/
+
 ## Hashcat
 Hashcat is a password "recovery tool" but is CSEC we use it more for brute forcing. It's open source and can be used to perform various types of attacks 
 
